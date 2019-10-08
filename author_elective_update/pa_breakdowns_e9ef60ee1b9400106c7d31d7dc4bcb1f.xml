@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_breakdowns">
+    <pa_breakdowns action="DELETE">
+        <data_source/>
+        <default_filter/>
+        <description>Records that have a priority.</description>
+        <dimension display_value="Incident.Priority">4f44dd12bf230100b96dac808c0739ab</dimension>
+        <display>true</display>
+        <facts_table/>
+        <field/>
+        <groups/>
+        <id/>
+        <name>NeedIt: Priority</name>
+        <role_override>true</role_override>
+        <roles/>
+        <script/>
+        <scripted>false</scripted>
+        <sql_statement/>
+        <sys_class_name>pa_breakdowns</sys_class_name>
+        <sys_created_by>bsizemore</sys_created_by>
+        <sys_created_on>2019-10-07 19:08:54</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e9ef60ee1b9400106c7d31d7dc4bcb1f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt: Priority</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>pa_breakdowns_e9ef60ee1b9400106c7d31d7dc4bcb1f</sys_update_name>
+        <sys_updated_by>bsizemore</sys_updated_by>
+        <sys_updated_on>2019-10-07 19:08:54</sys_updated_on>
+        <type>1</type>
+        <users/>
+        <visible_to>2</visible_to>
+    </pa_breakdowns>
+    <sys_translated_text action="delete_multiple" query="documentkey=e9ef60ee1b9400106c7d31d7dc4bcb1f"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>6837f6abdbc3ff8491232f17d49619c2</instance_id>
+        <instance_name>dev91383</instance_name>
+        <name>pa_breakdowns_e9ef60ee1b9400106c7d31d7dc4bcb1f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_breakdowns"><pa_breakdowns action="INSERT_OR_UPDATE"><data_source/><default_filter/><description>Records that have a priority.</description><dimension display_value="Incident.Priority">4f44dd12bf230100b96dac808c0739ab</dimension><display>true</display><facts_table/><field/><groups/><id/><name>NeedIt: Priority</name><role_override>true</role_override><roles/><script/><scripted>false</scripted><sql_statement/><sys_class_name>pa_breakdowns</sys_class_name><sys_created_by>bsizemore</sys_created_by><sys_created_on>2019-10-07 19:08:54</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e9ef60ee1b9400106c7d31d7dc4bcb1f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>NeedIt: Priority</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>pa_breakdowns_e9ef60ee1b9400106c7d31d7dc4bcb1f</sys_update_name><sys_updated_by>bsizemore</sys_updated_by><sys_updated_on>2019-10-07 19:08:54</sys_updated_on><type>1</type><users/><visible_to>2</visible_to></pa_breakdowns><sys_translated_text action="delete_multiple" query="documentkey=e9ef60ee1b9400106c7d31d7dc4bcb1f"/></record_update>]]></payload>
+        <payload_hash>-2081790486</payload_hash>
+        <record_name>NeedIt: Priority</record_name>
+        <reverted_from/>
+        <source>179e6b1a1b9000106c7d31d7dc4bcb65</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>bsizemore</sys_created_by>
+        <sys_created_on>2019-10-07 19:08:54</sys_created_on>
+        <sys_id>df0038ee1b9400106c7d31d7dc4bcb29</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16da79fdadd0000001</sys_recorded_at>
+        <sys_updated_by>bsizemore</sys_updated_by>
+        <sys_updated_on>2019-10-07 19:08:54</sys_updated_on>
+        <type>Breakdown</type>
+        <update_guid>1b0038ee4f9400100c48275aafbde929</update_guid>
+        <update_guid_history>1b0038ee4f9400100c48275aafbde929:-2081790486</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="NeedIt: Priority">43403cee1b9400106c7d31d7dc4bcb00</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>bsizemore</sys_created_by>
+        <sys_created_on>2019-10-07 19:09:59</sys_created_on>
+        <sys_db_object display_value="" name="pa_breakdowns">pa_breakdowns</sys_db_object>
+        <sys_id>29b6249b5692480088d7a3514477b100</sys_id>
+        <sys_metadata>e9ef60ee1b9400106c7d31d7dc4bcb1f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt: Priority</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>pa_breakdowns_e9ef60ee1b9400106c7d31d7dc4bcb1f</sys_update_name>
+        <sys_update_version display_value="pa_breakdowns_e9ef60ee1b9400106c7d31d7dc4bcb1f">df0038ee1b9400106c7d31d7dc4bcb29</sys_update_version>
+        <sys_updated_by>bsizemore</sys_updated_by>
+        <sys_updated_on>2019-10-07 19:09:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
